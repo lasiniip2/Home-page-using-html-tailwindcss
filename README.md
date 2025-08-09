@@ -13,7 +13,8 @@ A responsive, elegant homepage template designed using **HTML5** and **Tailwind 
 - **HTML5**
 - **Tailwind CSS**
 
+<!--
 ## Preview
-![Homepage Screenshot](./images/sample.png)
+![Homepage Screenshot](./images/sample.png)-->
 
 ### Completed back in 2022
